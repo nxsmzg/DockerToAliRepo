@@ -12,3 +12,4 @@
 tdengine/tdengine:3.3.4.8
 postgres:15.7
 odoo:17
+cskefu/activemq:5.14.3
