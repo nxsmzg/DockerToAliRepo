@@ -15,3 +15,4 @@ odoo:17
 cskefu/activemq:5.14.3
 redis:6.2.7
 debian:bookworm
+ubuntu:22.04
